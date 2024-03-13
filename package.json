@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@callstack/react-theme-provider": "^3.0.9",
+    "@react-navigation/bottom-tabs": "^6.5.16",
+    "algebrite": "^1.4.0",
+    "expo": "^50.0.8",
+    "jsxmath": "^0.0.163",
+    "react-native-paper": "^5.12.3"
+  }
+}
